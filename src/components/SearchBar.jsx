@@ -1,0 +1,17 @@
+import React from 'react';
+import './searchBar.css';
+
+function SearchBar() {
+  return (
+   <div className='search-bar'>
+    <form className="search-form d-flax align-items-center" method="POST" action='#'>
+        <input type="text" name="query" className="search-input" placeholder="Search..."/>
+        <button type='submit' title='search'>
+            <i className='bi bi-search'></i>
+        </button>
+    </form>
+   </div>
+  );
+}
+
+export default SearchBar
