@@ -25,21 +25,22 @@ function SideBar() {
                 <ul id='components-nav' className='nav-content collapse' data-bs-parent="#sidebar-nav">
                     <li>
                         <a href='#'>
-                            <i className='bi bi-circle'></i>
+                            <i className='bi bi-person'></i>
+                            
                             <span>Customers</span>
                         </a>
                     </li>
 
                     <li>
                         <a href='#'>
-                            <i className='bi bi-circle'></i>
+                            <i className='bi bi-truck'></i>
                             <span>Suplaires</span>
                         </a>
                     </li>
 
                     <li>
                         <a href='#'>
-                            <i className='bi bi-circle'></i>
+                            <i className='bi bi-truck-flatbed' style={{ color: '#34D399' }}></i>
                             <span>Logistic</span>
                         </a>
                     </li>
@@ -58,21 +59,21 @@ function SideBar() {
                 <ul id='form-nav' className='nav-content collapse' data-bs-parent="#sidebar-nav">
                     <li>
                         <a href='#'>
-                            <i className='bi bi-circle'></i>
+                            <i className='bi bi-list-check'></i>
                             <span>Application Form</span>
                         </a>
                     </li>
 
                     <li>
                         <a href='#'>
-                            <i className='bi bi-circle'></i>
+                            <i className='bi bi-file-earmark-check' style={{ color: '#34D399' }}></i>
                             <span>Relese Form</span>
                         </a>
                     </li>
 
                     <li>
                         <a href='#'>
-                            <i className='bi bi-circle'></i>
+                            <i className='bi bi-x-circle'></i>
                             <span>Cancelation Form</span>
                         </a>
                     </li>

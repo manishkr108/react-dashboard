@@ -1,0 +1,23 @@
+/*resent  selling css*/
+
+.dashboard .recent-sels{
+    font-size: 14px;
+
+}
+
+.dashboard .recent-sels .table thead{
+    background: #f6f6fe !important;
+
+}
+
+.dashboard .recent-sels .table thead th{
+    border: 0;
+}
+
+.dashboard .recent-sels .dataTable-top {
+   padding: 0 0 10px 0;
+}
+
+.dashboard .recent-sels dataTable-bottom{
+   padding: 10px 0 0 0;
+}
