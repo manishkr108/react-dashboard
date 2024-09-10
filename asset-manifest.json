@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b556bc4c.css",
-    "main.js": "/static/js/main.25baea78.js",
-    "static/js/453.fadc3cd2.chunk.js": "/static/js/453.fadc3cd2.chunk.js",
-    "static/media/profile.gif": "/static/media/profile.8768d8970e7252a15b26.gif",
-    "static/media/remixicon.svg?t=1718271040674": "/static/media/remixicon.f38690bdde29bddbc211.svg",
-    "static/media/remixicon.eot?t=1718271040674": "/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
-    "static/media/remixicon.ttf?t=1718271040674": "/static/media/remixicon.88da6179288d7835c2f0.ttf",
-    "static/media/remixicon.woff?t=1718271040674": "/static/media/remixicon.1bdc36c90398c9d667d1.woff",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/remixicon.woff2?t=1718271040674": "/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "index.html": "/index.html",
-    "main.b556bc4c.css.map": "/static/css/main.b556bc4c.css.map",
-    "main.25baea78.js.map": "/static/js/main.25baea78.js.map",
-    "453.fadc3cd2.chunk.js.map": "/static/js/453.fadc3cd2.chunk.js.map"
+    "main.css": "/react-dashboard/static/css/main.82147a90.css",
+    "main.js": "/react-dashboard/static/js/main.2e16f880.js",
+    "static/js/453.fadc3cd2.chunk.js": "/react-dashboard/static/js/453.fadc3cd2.chunk.js",
+    "static/media/profile.gif": "/react-dashboard/static/media/profile.8768d8970e7252a15b26.gif",
+    "static/media/remixicon.svg?t=1718271040674": "/react-dashboard/static/media/remixicon.f38690bdde29bddbc211.svg",
+    "static/media/remixicon.eot?t=1718271040674": "/react-dashboard/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
+    "static/media/remixicon.ttf?t=1718271040674": "/react-dashboard/static/media/remixicon.88da6179288d7835c2f0.ttf",
+    "static/media/remixicon.woff?t=1718271040674": "/react-dashboard/static/media/remixicon.1bdc36c90398c9d667d1.woff",
+    "static/media/bootstrap-icons.woff?": "/react-dashboard/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/remixicon.woff2?t=1718271040674": "/react-dashboard/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
+    "static/media/bootstrap-icons.woff2?": "/react-dashboard/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/react-dashboard/index.html",
+    "main.82147a90.css.map": "/react-dashboard/static/css/main.82147a90.css.map",
+    "main.2e16f880.js.map": "/react-dashboard/static/js/main.2e16f880.js.map",
+    "453.fadc3cd2.chunk.js.map": "/react-dashboard/static/js/453.fadc3cd2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b556bc4c.css",
-    "static/js/main.25baea78.js"
+    "static/css/main.82147a90.css",
+    "static/js/main.2e16f880.js"
   ]
 }
