@@ -4,13 +4,13 @@ import NavNotice from './NavNotice';
 import NavMessage from './NavMessage';
 import NavAvtar from './NavAvtar';
 
-function Nav() {
+function Nav({onLogout}) {
   return (
     <nav className="header-nav ms-auto">
       <ul className='d-flex align-items-center'>
         <NavNotice />
         <NavMessage />
-        <NavAvtar />
+        <NavAvtar onLogout={onLogout} />
       </ul>
     </nav>
   )

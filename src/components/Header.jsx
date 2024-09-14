@@ -5,7 +5,7 @@ import SearchBar from './SearchBar';
 import Nav from './navbarcomponent/Nav';
 
 
-function Header() {
+function Header({onLogout}) {
   return (
     <header id="header" className='header fixed-top d-flex align-items-center'>
         {/* //*logo*/}
@@ -13,7 +13,7 @@ function Header() {
         {/* //*serchbar*/}
         <SearchBar />
          {/*//*nav*/}
-         <Nav />
+         <Nav  onLogout={onLogout} />
     </header>
   )
 }
