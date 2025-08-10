@@ -31,11 +31,12 @@ function LoginRegister({ onLogin }) { // Accept onLogin as a prop
 
     const handleRegister = async (e) => {
         e.preventDefault();
+        const name = e.target.name.value;
         const email = e.target.email.value;
         const password = e.target.password.value;
 
         try {
-            await register(email, password);
+            await register(name,email, password);
             setAction(''); // Switch to login view after successful registration
         } catch (error) {
             setErrorMessage(error);
@@ -78,7 +79,7 @@ function LoginRegister({ onLogin }) { // Accept onLogin as a prop
                 <form className='form' id='register-form' onSubmit={handleRegister}>
                     <h1>Register</h1>
                     <div className="input-box">
-                        <input type='text' name='email' placeholder='Username' required />
+                        <input type='text' name='name' placeholder='Username' required />
                         <FaUser className='icon' />
                     </div>
 
